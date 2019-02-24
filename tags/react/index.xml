@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>React on Mustafa Dane&#39;s Personal Website</title>
-    <link>/tags/react/</link>
+    <link>http://mustafadane.com/tags/react/</link>
     <description>Recent content in React on Mustafa Dane&#39;s Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Feb 2019 00:58:24 -0600</lastBuildDate>
-    <atom:link href="/tags/react/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://mustafadane.com/tags/react/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Why I hate React Native and Love at the same time.</title>
-      <link>/post/react-native/</link>
+      <link>http://mustafadane.com/post/react-native/</link>
       <pubDate>Sun, 17 Feb 2019 00:58:24 -0600</pubDate>
       
-      <guid>/post/react-native/</guid>
+      <guid>http://mustafadane.com/post/react-native/</guid>
       <description>
 
 &lt;h5 id=&#34;you-can-find-the-original-post-here-https-medium-com-mustafadane-why-i-hate-react-native-and-love-at-the-same-time-237ca75cbe4e:fa7aa9737b3aa6461447b11265f7118b&#34;&gt;You can find the original post &lt;a href=&#34;https://medium.com/@mustafadane/why-i-hate-react-native-and-love-at-the-same-time-237ca75cbe4e&#34;&gt;HERE&lt;/a&gt;.&lt;/h5&gt;
