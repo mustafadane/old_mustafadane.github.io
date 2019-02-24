@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Meta on Mustafa Dane&#39;s Personal Website</title>
-    <link>https://mustafadane.github.io/categories/meta/</link>
+    <link>/categories/meta/</link>
     <description>Recent content in Meta on Mustafa Dane&#39;s Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Feb 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://mustafadane.github.io/categories/meta/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/meta/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>About Me</title>
-      <link>https://mustafadane.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://mustafadane.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>
 
 &lt;p&gt;Hey! This is Mustafa. I am a software engineer with a strong passion to coding, learning, and teaching which makes me a constant learner. I like learning new languages, technologies, and libraries. I often find myself reading blog posts about other technologies, watching tutorials, and tinkering with new techs by coding with them!&lt;/p&gt;
