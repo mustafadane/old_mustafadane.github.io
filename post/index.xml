@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mustafa Dane&#39;s Personal Website</title>
+    <link>http://mustafadane.com/post/</link>
+    <description>Recent content in Posts on Mustafa Dane&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Feb 2019 00:58:24 -0600</lastBuildDate>
+    <atom:link href="http://mustafadane.com/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why I hate React Native and Love at the same time.</title>
+      <link>http://mustafadane.com/post/react-native/</link>
+      <pubDate>Sun, 17 Feb 2019 00:58:24 -0600</pubDate>
+      
+      <guid>http://mustafadane.com/post/react-native/</guid>
+      <description>
+
+&lt;h5 id=&#34;you-can-find-the-original-post-here-https-medium-com-mustafadane-why-i-hate-react-native-and-love-at-the-same-time-237ca75cbe4e:fa7aa9737b3aa6461447b11265f7118b&#34;&gt;You can find the original post &lt;a href=&#34;https://medium.com/@mustafadane/why-i-hate-react-native-and-love-at-the-same-time-237ca75cbe4e&#34;&gt;HERE&lt;/a&gt;.&lt;/h5&gt;
+
+&lt;p&gt;All the big loves start with hatred, right? At least, it was the case for me with React Native. I wanted to learn it so hard. Even though it gave me really hard time when I begin to learn it, I started to love it later. Let’s find out together why I hate and love React Native at the same time!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mustafadane.com/images/phone.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You might be asking now: why the hell this photo? Right, we don’t have those phones at our homes anymore. (Actually, I have an older one but just for decoration.) But we have our smartphones which are like oxygen these day. You can’t live without them. In today’s world where almost everything can be done on a mobile phone, developing solutions to today’s problems in a mobile environment is a necessity. Almost every company is building mobile apps these days. So learning how to build a mobile app was always exciting for me. For a quick start, I wanted to learn React Native because I was already a master in React, so I could transfer my knowledge easily over to React Native. Yeah, right. It wasn’t that easy…&lt;/p&gt;
+
+&lt;p&gt;In my first big project with React Native, I wanted to make an app that will track your song skip times in Spotify and delete a song from your playlist after some number of skips. So I wanted to connect my app to Spotify via Spotify SDK. Then all the crashes and bloody red screens started to be my nightmares. I was finding a problem and fixing it, apparently to find out another problem. Main reason for all those problems was incompatibilities. There were 5 different versions that needed to be working together well to have an app working flawless: Android SDK, graddle, React Native, Spotify SDK, and a third party library for using Spotify SDK with React Native.&lt;/p&gt;
+
+&lt;p&gt;The latter library was to make everything smoother but apparently it was not maintained well. So I had a lot of issues and tried different versions of React Native which crashed due to incompatibility with the Android versions. At the end, I found the solution to go into node modules and change some stuff in that library which made me so proud of myself at the end. Overall, the problem was mainly incompatible versions due to the fast-growing pace of React Native.&lt;/p&gt;
+
+&lt;p&gt;But I couldn’t stop developing with React Native. Later, I started another project with 3 other brilliant people at Fullstack Academy and we chose to use React Native in our project. Luckily, we had less problems in that project and all of us loved it. None of us were experts on mobile development before but in one week, we were at a level where we can build an app that works in both Android and iOS phones. And not just an app, but actually a good-looking, bunch of cool features loaded, and useful app… This was such a good feeling!&lt;/p&gt;
+
+&lt;p&gt;I am not an expert on mobile app development area but I saw that some of the companies are changing their mobile development stack to use React Native for both Android and iOS platforms. This is actually very smart for companies as they would only hire one set of engineers to build the app in both platforms and both apps would look similar. And they would not have two teams racing each other to bring the best features fastest. That’s the case, right? I don’t know, but imagining… :) I know for sure that users race at least. Like, oh did you see Instagram added this crazy feature in their stories. — No, I didn’t. I have an Android. How many times you heard this conversation?&lt;/p&gt;
+
+&lt;p&gt;In conclusion, React Native is fun to learn despite all technicalities. And I see a bright future for React Native. GO RN!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

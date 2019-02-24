@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Mustafa Dane&#39;s Personal Website</title>
+    <link>http://mustafadane.com/project/</link>
+    <description>Recent content in Projects on Mustafa Dane&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 23 Feb 2019 18:01:03 -0600</lastBuildDate>
+    <atom:link href="http://mustafadane.com/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>SPL/IT</title>
+      <link>http://mustafadane.com/project/split/</link>
+      <pubDate>Sat, 23 Feb 2019 18:01:03 -0600</pubDate>
+      
+      <guid>http://mustafadane.com/project/split/</guid>
+      <description>
+
+&lt;p&gt;$PL/IT is a mobile tab splitting app for friends who go out to eat but have different spending habits. iOS and Android users can upload photos of their receipts and claim ownership of each item in that receipt. Once the event is closed, each user is shown how much they should pay or charge other users in the event.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mustafadane.com/images/split.gif&#34; alt=&#34;SPL/IT&#34; title=&#34;SPL/IT&#34; /&gt;&lt;/p&gt;
+
+&lt;h5 id=&#34;development:dde1932d70115191c2afe28683c40566&#34;&gt;Development&lt;/h5&gt;
+
+&lt;p&gt;This was built using Google&amp;rsquo;s &lt;a href=&#34;https://cloud.google.com/vision/docs/ocr&#34;&gt;Cloud Vision API&lt;/a&gt; with a front end in &lt;a href=&#34;https://facebook.github.io/react-native/&#34;&gt;React Native&lt;/a&gt; and a back-end in &lt;a href=&#34;https://firebase.google.com/&#34;&gt;Firebase&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;We wrote a custom algorithm to parse the results from Cloud Vision&amp;rsquo;s API into line items which we store in Firebase&amp;rsquo;s real-time database. Firebase supports not only our app&amp;rsquo;s database and authentication, but also user interaction. In addition, this non-relational database allows us to set up subscriptions to an SDK to handle queries almost instantly.&lt;/p&gt;
+
+&lt;h5 id=&#34;contributors:dde1932d70115191c2afe28683c40566&#34;&gt;Contributors&lt;/h5&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/ibrittanyhill&#34;&gt;Brittany Hill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/juliannemarik&#34;&gt;Julianne Crawford&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/lotust&#34;&gt;Lotus Tan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/mustafadane&#34;&gt;Mustafa Dane&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Adaptify</title>
+      <link>http://mustafadane.com/project/adaptify/</link>
+      <pubDate>Sat, 23 Feb 2019 17:56:15 -0600</pubDate>
+      
+      <guid>http://mustafadane.com/project/adaptify/</guid>
+      <description>
+
+&lt;h5 id=&#34;adaptive-playlist-experience:aef97d24d4c13cc51a902185fcd056b1&#34;&gt;Adaptive Playlist Experience&lt;/h5&gt;
+
+&lt;p&gt;Have you ever had a song in your playlist that you keep skipping? Then, use Adaptify to have an adaptive playlist. Any song that are skipped 3 times will be deleted from your playlist!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Utilized&lt;/strong&gt;: Spotify Android SDK and API, React Native, Heroku deployed server with Node.js and Express.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>10 Year Challenge Generator</title>
+      <link>http://mustafadane.com/project/10yearchallenge/</link>
+      <pubDate>Sat, 23 Feb 2019 17:25:01 -0600</pubDate>
+      
+      <guid>http://mustafadane.com/project/10yearchallenge/</guid>
+      <description>&lt;p&gt;I don&amp;rsquo;t care if Mark Zuckerberg created this challenge to get face recognition data or it was just one of these internet viral things. I saw that at least 20 friends of mine did it on Facebook. So I coded a way to do it automatically! It was fun :)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mustafadane.com/images/10year.gif&#34; alt=&#34;10YearChallenge Generator&#34; title=&#34;10YearChallenge Generator&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Student Playbook</title>
+      <link>http://mustafadane.com/project/student-playbook/</link>
+      <pubDate>Sat, 23 Feb 2019 17:14:31 -0600</pubDate>
+      
+      <guid>http://mustafadane.com/project/student-playbook/</guid>
+      <description>&lt;p&gt;This is a project to be used internally at Fullstack Academy of Code. Main purpose is to create projects and tasks for incoming students in Asana and edit all of them at once. PostgreSQL database is used to keep the tasks and projects data. Node/Express server is used to communicate with database and Asana API. React and Blueprint.js are used in the front-end. Whole project is written in TypeScript!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Worked with other software developers and supervised by campus
+director, Ben Neiswander.&lt;/li&gt;
+&lt;li&gt;Project aims to create a full-stack website for bulk creating and
+updating projects with tasks for students at Fullstack Academy.&lt;/li&gt;
+&lt;li&gt;My involvement was to create front-end with React, Node.js,
+JavaScript, HTML, and CSS&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Yesternow</title>
+      <link>http://mustafadane.com/project/yesternow/</link>
+      <pubDate>Sun, 17 Feb 2019 00:58:32 -0600</pubDate>
+      
+      <guid>http://mustafadane.com/project/yesternow/</guid>
+      <description>
+
+&lt;ul&gt;
+&lt;li&gt;Full e-commerce experience for guest and logged in users and with
+admin dashboard.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Utilized&lt;/strong&gt;: Node.js, Express, PostgreSQL, Sequelize, Passport, OAuth,
+Webpack, Babel, Mocha, Chai, Enzyme, React, Redux, Semantic UI,
+HTML, CSS.&lt;/li&gt;
+&lt;li&gt;Done in a group of 4 students in an agile work environment.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h5 id=&#34;preview:2710642a3ee63efff7917cc1b39cae39&#34;&gt;Preview&lt;/h5&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://mustafadane.com/images/yesternow.gif&#34; alt=&#34;Yesternow&#34; title=&#34;Yesternow&#34; /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

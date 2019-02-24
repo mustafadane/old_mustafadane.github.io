@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="generator" content="Hugo 0.16-DEV" />
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="My thoughts and rambles">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <link rel="icon" type="image/png" href="http://mustafadane.com//images/favicon.ico">
+
+    
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="icon" sizes="192x192" href="http://mustafadane.com/images/touch/chrome-touch-icon-192x192.png">
+
+    
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Material Design Lite">
+    <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
+
+    
+    <meta name="msapplication-TileImage" content="http://mustafadane.com/images/touch/ms-touch-icon-144x144-precomposed.png">
+    <meta name="msapplication-TileColor" content="#3372DF">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en"/>
+    <link rel="stylesheet" href="http://mustafadane.com/css/ionicons.min.css"/>
+    <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.1.3/material.grey-orange.min.css"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="http://mustafadane.com/css/hmdl-style.css"/>
+
+
+
+    <title>SPL/IT</title>
+</head>
+
+<body style="background-image: url('/images/background2.png');">
+    <div class="hmdl-body mdl-layout mdl-js-layout has-drawer is-upgraded">        
+        <header class="mdl-layout__header mdl-layout__header--transparent mdl-layout__header--scroll">
+            <div class="mdl-layout__header-row myFixed">
+                <div class="mdl-layout-spacer"></div>
+                <nav class="mdl-navigation">
+                <a class="mdl-navigation__link" href="/">Home</a>
+                <a class="mdl-navigation__link" href="/post/">Blog Posts</a>
+                <a class="mdl-navigation__link" href="/project/">Projects</a>
+                <a class="mdl-navigation__link" href="/about/">About</a>
+                </nav>
+            </div>
+        </header>
+        <div class="mdl-layout__drawer myFixed">
+            <nav class="mdl-navigation">
+            <a class="mdl-navigation__link" href="/">Home</a>
+            <a class="mdl-navigation__link" href="/post/">Blog Posts</a>
+            <a class="mdl-navigation__link" href="/project/">Projects</a>
+            <a class="mdl-navigation__link" href="/about/">About</a>
+            </nav>
+        </div>
+
+        <main class="mdl-layout__content">
+
+            <div class="hmdl-page mdl-grid">
+                <div class="mdl-card mdl-shadow--4dp mdl-cell mdl-cell--12-col">
+                    <div class="hmdl-page-banner mdl-card__media mdl-color-text--grey-50" style="background-image: url('/images/split.jpg'); ">
+                        <h3 >SPL/IT</h3>
+                    </div>
+                    <div class="hmdl-page-meta mdl-color-text--grey-700 mdl-card__supporting-text">
+                        <div class="minilogo" style="background-image: url('/images/avatar-64x64.png');"></div>
+                        <div>
+                            <strong>Mustafa Dane</strong>
+                            <span>Feb 23, 2019</span>
+                        </div>
+                        <div class="section-spacer"></div>
+                        <div><span>
+                            <a id="repolink" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" href="https://github.com/SPL-IT-app/spl.it"><i class="material-icons icon ion-social-github"></i><span class="visuallyhidden">Github</span></a>
+                            <span for="repolink" class="mdl-tooltip">Code Repository</span>
+                            <a id="sitelink" class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon" href="https://expo.io/@mustafadane/split"><i class="material-icons icon ion-link"></i><span class="visuallyhidden">Website</span></a>
+                            <span for="sitelink" class="mdl-tooltip">Website Link</span>
+                        </span></div>
+                    </div>
+                        
+                    <div class="hmdl-page-content mdl-color-text--grey-700 mdl-card__supporting-text">
+                        
+
+<p>$PL/IT is a mobile tab splitting app for friends who go out to eat but have different spending habits. iOS and Android users can upload photos of their receipts and claim ownership of each item in that receipt. Once the event is closed, each user is shown how much they should pay or charge other users in the event.</p>
+
+<p><img src="/images/split.gif" alt="SPL/IT" title="SPL/IT" /></p>
+
+<h5 id="development:dde1932d70115191c2afe28683c40566">Development</h5>
+
+<p>This was built using Google&rsquo;s <a href="https://cloud.google.com/vision/docs/ocr">Cloud Vision API</a> with a front end in <a href="https://facebook.github.io/react-native/">React Native</a> and a back-end in <a href="https://firebase.google.com/">Firebase</a>.</p>
+
+<p>We wrote a custom algorithm to parse the results from Cloud Vision&rsquo;s API into line items which we store in Firebase&rsquo;s real-time database. Firebase supports not only our app&rsquo;s database and authentication, but also user interaction. In addition, this non-relational database allows us to set up subscriptions to an SDK to handle queries almost instantly.</p>
+
+<h5 id="contributors:dde1932d70115191c2afe28683c40566">Contributors</h5>
+
+<ul>
+<li><a href="https://github.com/ibrittanyhill">Brittany Hill</a></li>
+<li><a href="https://github.com/juliannemarik">Julianne Crawford</a></li>
+<li><a href="https://github.com/lotust">Lotus Tan</a></li>
+<li><a href="https://github.com/mustafadane">Mustafa Dane</a></li>
+</ul>
+
+                    </div>
+                    
+                    <div class="hmdl-page-comments mdl-color-text--primary-contrast mdl-card__supporting-text comments"> 
+                        <a >Mustafa Dane</a>
+                    </div>  
+                </div>                
+                <nav class="mdl-color-text--grey-50 mdl-cell mdl-cell--12-col">
+                    <a href="/project/adaptify/">
+                        <button class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-color--white mdl-color-text--grey-900" role="presentation">
+                        <i class="icon ion-android-arrow-back"></i>
+                        </button>
+                        Older
+                    </a>
+                    <div class="section-spacer"></div>
+                </nav>
+ 
+            </div>        
+        </main>
+        <footer class="mdl-mini-footer">
+            <div class="mdl-mini-footer--left-section">                
+                <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="mailto:mustafadane@gmail.com?subject=Hi">
+                    <i class="material-icons_lg icon ion-email"></i>
+                    <span class="visuallyhidden">Email</span>
+                </a>
+                <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="https://github.com/mustafadane/">
+                    <i class="material-icons_lg icon ion-social-github"></i>
+                    <span class="visuallyhidden">Github</span>
+                </a>
+                <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="https://linkedin.com/in/mustafadane/">
+                    <i class="material-icons_lg icon ion-social-linkedin "></i>                        
+                    <span class="visuallyhidden">LinkedIn</span>
+                </a>
+
+            </div>
+            <div class="mdl-mini-footer--right-section">
+                <span>© 2019 Mustafa Dane</span>
+            </div>
+        </footer>
+        
+    </div>
+    <script src="https://code.getmdl.io/1.1.3/material.min.js"></script>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+    </script>
+
+
+</body>
+</html>
+

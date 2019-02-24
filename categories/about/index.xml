@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Mustafa Dane&#39;s Personal Website</title>
+    <link>http://mustafadane.com/categories/about/</link>
+    <description>Recent content in About on Mustafa Dane&#39;s Personal Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://mustafadane.com/categories/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>About Me</title>
+      <link>http://mustafadane.com/about/</link>
+      <pubDate>Sun, 17 Feb 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://mustafadane.com/about/</guid>
+      <description>
+
+&lt;p&gt;Hey! This is Mustafa. I am a software engineer with a strong passion to coding, learning, and teaching which makes me a constant learner. I like learning new languages, technologies, and libraries. I often find myself reading blog posts about other technologies, watching tutorials, and tinkering with new techs by coding with them!&lt;/p&gt;
+
+&lt;p&gt;Currently, I work as a Teaching Fellow at Fullstack Academy of Code in Chicago where I graduated a few months ago. I enjoy teaching coding and algorithms; also weirdly, &lt;strong&gt;debugging&lt;/strong&gt;. I know, right? Sometimes I respect bugs as they take our precious hours where we are dealing with bloody deadlines. And once I found it, I am like uh-huh, there you are! Now, get out of my code! At Fullstack Academy, I daily help students to debug their codes and it is the best feeling when you see the students amazed after finding the bug.&lt;/p&gt;
+
+&lt;p&gt;If I am not coding, I might be snowboarding, rollerblading, or flying my drone (In fact, background image of this page was taken by my drone).&lt;/p&gt;
+
+&lt;p&gt;Please check my GitHub Profile for my work: &lt;a href=&#34;https://www.github.com/mustafadane&#34;&gt;https://www.github.com/mustafadane&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;education:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Education&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;2018 - Software Engineering Immersive Certificate, Fullstack Academy of Code&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2017 - PhD level courses, University of Illinois at Urbana-Champaign&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2015 - B.S. in Molecular Biology and Genetics, Bogazici University, Istanbul, Turkey&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;places-i-ve-worked:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;Places I&amp;rsquo;ve worked&lt;/h4&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;2019 - &lt;em&gt;Present&lt;/em&gt;- Software Engineer and Teaching Fellow, Fullstack Academy of Code, Chicago, IL&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2015 - 2017 - Research Assistant, University of Illinois at Urbana-Champaign&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2014 - Research Assistant, Harvard University, Cambridge, MA&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;2013 - Research Assistant, University of California, San Diego, CA&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;my-skills:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;My Skills&lt;/h4&gt;
+
+&lt;p&gt;JavaScript, TypeScript, HTML5,
+CSS, Python, C,
+Node.js, React, React Native,
+Redux, Express, Expo,
+OOP, TDD, APIs, AJAX, Agile,
+Pair programming,
+PostgreSQL, MySQL, Firebase
+Real-time Database,
+Sequelize, Mocha, Chai,
+Enzyme, Socket.io, Webpack,
+Babel.js,
+Git, GitHub&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

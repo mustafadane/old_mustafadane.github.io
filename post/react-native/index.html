@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="generator" content="Hugo 0.16-DEV" />
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="description" content="My thoughts and rambles">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    
+    <link rel="icon" type="image/png" href="http://mustafadane.com//images/favicon.ico">
+
+    
+    <meta name="mobile-web-app-capable" content="yes">
+    <link rel="icon" sizes="192x192" href="http://mustafadane.com/images/touch/chrome-touch-icon-192x192.png">
+
+    
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="apple-mobile-web-app-title" content="Material Design Lite">
+    <link rel="apple-touch-icon-precomposed" href="apple-touch-icon-precomposed.png">
+
+    
+    <meta name="msapplication-TileImage" content="http://mustafadane.com/images/touch/ms-touch-icon-144x144-precomposed.png">
+    <meta name="msapplication-TileColor" content="#3372DF">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en"/>
+    <link rel="stylesheet" href="http://mustafadane.com/css/ionicons.min.css"/>
+    <link rel="stylesheet" href="https://storage.googleapis.com/code.getmdl.io/1.1.3/material.grey-orange.min.css"/>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+    <link rel="stylesheet" href="http://mustafadane.com/css/hmdl-style.css"/>
+
+
+
+    <title>Why I hate React Native and Love at the same time.</title>
+</head>
+
+<body style="background-image: url('/images/background2.png');">
+    <div class="hmdl-body mdl-layout mdl-js-layout has-drawer is-upgraded">        
+        <header class="mdl-layout__header mdl-layout__header--transparent mdl-layout__header--scroll">
+            <div class="mdl-layout__header-row myFixed">
+                <div class="mdl-layout-spacer"></div>
+                <nav class="mdl-navigation">
+                <a class="mdl-navigation__link" href="/">Home</a>
+                <a class="mdl-navigation__link" href="/post/">Blog Posts</a>
+                <a class="mdl-navigation__link" href="/project/">Projects</a>
+                <a class="mdl-navigation__link" href="/about/">About</a>
+                </nav>
+            </div>
+        </header>
+        <div class="mdl-layout__drawer myFixed">
+            <nav class="mdl-navigation">
+            <a class="mdl-navigation__link" href="/">Home</a>
+            <a class="mdl-navigation__link" href="/post/">Blog Posts</a>
+            <a class="mdl-navigation__link" href="/project/">Projects</a>
+            <a class="mdl-navigation__link" href="/about/">About</a>
+            </nav>
+        </div>
+
+        <main class="mdl-layout__content">
+
+            <div class="hmdl-page mdl-grid">
+                <div class="mdl-card mdl-shadow--4dp mdl-cell mdl-cell--12-col">
+                    <div class="hmdl-page-banner mdl-card__media mdl-color-text--grey-50" style="background-image: url('/images/phone.jpg'); background-color:#263238;">
+                        <h3 >Why I Hate React Native And Love At The Same Time.</h3>
+                    </div>
+                    <div class="hmdl-page-meta mdl-color-text--grey-700 mdl-card__supporting-text">
+                        <div class="minilogo" style="background-image: url('/images/avatar-64x64.png');"></div>
+                        <div>
+                            <strong>Mustafa Dane</strong>
+                            <span>Feb 17, 2019</span>
+                        </div>
+                        <div class="section-spacer"></div>
+                    </div>
+                    <div class="hmdl-page-content mdl-color-text--grey-700 mdl-card__supporting-text">
+                        
+
+<h5 id="you-can-find-the-original-post-here-https-medium-com-mustafadane-why-i-hate-react-native-and-love-at-the-same-time-237ca75cbe4e:fa7aa9737b3aa6461447b11265f7118b">You can find the original post <a href="https://medium.com/@mustafadane/why-i-hate-react-native-and-love-at-the-same-time-237ca75cbe4e">HERE</a>.</h5>
+
+<p>All the big loves start with hatred, right? At least, it was the case for me with React Native. I wanted to learn it so hard. Even though it gave me really hard time when I begin to learn it, I started to love it later. Let’s find out together why I hate and love React Native at the same time!</p>
+
+<p><img src="/images/phone.jpg" alt="" /></p>
+
+<p>You might be asking now: why the hell this photo? Right, we don’t have those phones at our homes anymore. (Actually, I have an older one but just for decoration.) But we have our smartphones which are like oxygen these day. You can’t live without them. In today’s world where almost everything can be done on a mobile phone, developing solutions to today’s problems in a mobile environment is a necessity. Almost every company is building mobile apps these days. So learning how to build a mobile app was always exciting for me. For a quick start, I wanted to learn React Native because I was already a master in React, so I could transfer my knowledge easily over to React Native. Yeah, right. It wasn’t that easy…</p>
+
+<p>In my first big project with React Native, I wanted to make an app that will track your song skip times in Spotify and delete a song from your playlist after some number of skips. So I wanted to connect my app to Spotify via Spotify SDK. Then all the crashes and bloody red screens started to be my nightmares. I was finding a problem and fixing it, apparently to find out another problem. Main reason for all those problems was incompatibilities. There were 5 different versions that needed to be working together well to have an app working flawless: Android SDK, graddle, React Native, Spotify SDK, and a third party library for using Spotify SDK with React Native.</p>
+
+<p>The latter library was to make everything smoother but apparently it was not maintained well. So I had a lot of issues and tried different versions of React Native which crashed due to incompatibility with the Android versions. At the end, I found the solution to go into node modules and change some stuff in that library which made me so proud of myself at the end. Overall, the problem was mainly incompatible versions due to the fast-growing pace of React Native.</p>
+
+<p>But I couldn’t stop developing with React Native. Later, I started another project with 3 other brilliant people at Fullstack Academy and we chose to use React Native in our project. Luckily, we had less problems in that project and all of us loved it. None of us were experts on mobile development before but in one week, we were at a level where we can build an app that works in both Android and iOS phones. And not just an app, but actually a good-looking, bunch of cool features loaded, and useful app… This was such a good feeling!</p>
+
+<p>I am not an expert on mobile app development area but I saw that some of the companies are changing their mobile development stack to use React Native for both Android and iOS platforms. This is actually very smart for companies as they would only hire one set of engineers to build the app in both platforms and both apps would look similar. And they would not have two teams racing each other to bring the best features fastest. That’s the case, right? I don’t know, but imagining… :) I know for sure that users race at least. Like, oh did you see Instagram added this crazy feature in their stories. — No, I didn’t. I have an Android. How many times you heard this conversation?</p>
+
+<p>In conclusion, React Native is fun to learn despite all technicalities. And I see a bright future for React Native. GO RN!</p>
+
+                    </div>
+                    <div class="hmdl-page-comments mdl-color-text--primary-contrast mdl-card__supporting-text comments"> 
+                        <a href=http://mustafadane.com/>Mustafa Dane</a>
+                        <p></p>
+                    </div>  
+                </div>                
+                <nav class="mdl-color-text--grey-50 mdl-cell mdl-cell--12-col">
+                    <div class="section-spacer"></div>
+                </nav>
+ 
+            </div>        
+        </main>
+        <footer class="mdl-mini-footer">
+            <div class="mdl-mini-footer--left-section">                
+                <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="mailto:mustafadane@gmail.com?subject=Hi">
+                    <i class="material-icons_lg icon ion-email"></i>
+                    <span class="visuallyhidden">Email</span>
+                </a>
+                <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="https://github.com/mustafadane/">
+                    <i class="material-icons_lg icon ion-social-github"></i>
+                    <span class="visuallyhidden">Github</span>
+                </a>
+                <a class="mdl-button mdl-js-button mdl-js-ripple-effect mdl-button--icon mdl-mini-footer--social-btn social-btn" href="https://linkedin.com/in/mustafadane/">
+                    <i class="material-icons_lg icon ion-social-linkedin "></i>                        
+                    <span class="visuallyhidden">LinkedIn</span>
+                </a>
+
+            </div>
+            <div class="mdl-mini-footer--right-section">
+                <span>© 2019 Mustafa Dane</span>
+            </div>
+        </footer>
+        
+    </div>
+    <script src="https://code.getmdl.io/1.1.3/material.min.js"></script>
+    <script src="https://remarkjs.com/downloads/remark-latest.min.js">
+    </script>
+
+
+</body>
+</html>
+
