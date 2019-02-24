@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Project on Mustafa Dane&#39;s Personal Website</title>
-    <link>http://mustafadane.com/categories/project/</link>
+    <link>https://mustafadane.github.io/categories/project/</link>
     <description>Recent content in Project on Mustafa Dane&#39;s Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 23 Feb 2019 18:01:03 -0600</lastBuildDate>
-    <atom:link href="http://mustafadane.com/categories/project/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mustafadane.github.io/categories/project/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>SPL/IT</title>
-      <link>http://mustafadane.com/project/split/</link>
+      <link>https://mustafadane.github.io/project/split/</link>
       <pubDate>Sat, 23 Feb 2019 18:01:03 -0600</pubDate>
       
-      <guid>http://mustafadane.com/project/split/</guid>
+      <guid>https://mustafadane.github.io/project/split/</guid>
       <description>
 
 &lt;p&gt;$PL/IT is a mobile tab splitting app for friends who go out to eat but have different spending habits. iOS and Android users can upload photos of their receipts and claim ownership of each item in that receipt. Once the event is closed, each user is shown how much they should pay or charge other users in the event.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://mustafadane.com/images/split.gif&#34; alt=&#34;SPL/IT&#34; title=&#34;SPL/IT&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mustafadane.github.io/images/split.gif&#34; alt=&#34;SPL/IT&#34; title=&#34;SPL/IT&#34; /&gt;&lt;/p&gt;
 
 &lt;h5 id=&#34;development:dde1932d70115191c2afe28683c40566&#34;&gt;Development&lt;/h5&gt;
 
@@ -40,10 +40,10 @@
     
     <item>
       <title>Adaptify</title>
-      <link>http://mustafadane.com/project/adaptify/</link>
+      <link>https://mustafadane.github.io/project/adaptify/</link>
       <pubDate>Sat, 23 Feb 2019 17:56:15 -0600</pubDate>
       
-      <guid>http://mustafadane.com/project/adaptify/</guid>
+      <guid>https://mustafadane.github.io/project/adaptify/</guid>
       <description>
 
 &lt;h5 id=&#34;adaptive-playlist-experience:aef97d24d4c13cc51a902185fcd056b1&#34;&gt;Adaptive Playlist Experience&lt;/h5&gt;
@@ -58,22 +58,22 @@
     
     <item>
       <title>10 Year Challenge Generator</title>
-      <link>http://mustafadane.com/project/10yearchallenge/</link>
+      <link>https://mustafadane.github.io/project/10yearchallenge/</link>
       <pubDate>Sat, 23 Feb 2019 17:25:01 -0600</pubDate>
       
-      <guid>http://mustafadane.com/project/10yearchallenge/</guid>
+      <guid>https://mustafadane.github.io/project/10yearchallenge/</guid>
       <description>&lt;p&gt;I don&amp;rsquo;t care if Mark Zuckerberg created this challenge to get face recognition data or it was just one of these internet viral things. I saw that at least 20 friends of mine did it on Facebook. So I coded a way to do it automatically! It was fun :)&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://mustafadane.com/images/10year.gif&#34; alt=&#34;10YearChallenge Generator&#34; title=&#34;10YearChallenge Generator&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mustafadane.github.io/images/10year.gif&#34; alt=&#34;10YearChallenge Generator&#34; title=&#34;10YearChallenge Generator&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Student Playbook</title>
-      <link>http://mustafadane.com/project/student-playbook/</link>
+      <link>https://mustafadane.github.io/project/student-playbook/</link>
       <pubDate>Sat, 23 Feb 2019 17:14:31 -0600</pubDate>
       
-      <guid>http://mustafadane.com/project/student-playbook/</guid>
+      <guid>https://mustafadane.github.io/project/student-playbook/</guid>
       <description>&lt;p&gt;This is a project to be used internally at Fullstack Academy of Code. Main purpose is to create projects and tasks for incoming students in Asana and edit all of them at once. PostgreSQL database is used to keep the tasks and projects data. Node/Express server is used to communicate with database and Asana API. React and Blueprint.js are used in the front-end. Whole project is written in TypeScript!&lt;/p&gt;
 
 &lt;ul&gt;
@@ -89,10 +89,10 @@ JavaScript, HTML, and CSS&lt;/li&gt;
     
     <item>
       <title>Yesternow</title>
-      <link>http://mustafadane.com/project/yesternow/</link>
+      <link>https://mustafadane.github.io/project/yesternow/</link>
       <pubDate>Sun, 17 Feb 2019 00:58:32 -0600</pubDate>
       
-      <guid>http://mustafadane.com/project/yesternow/</guid>
+      <guid>https://mustafadane.github.io/project/yesternow/</guid>
       <description>
 
 &lt;ul&gt;
@@ -106,7 +106,7 @@ HTML, CSS.&lt;/li&gt;
 
 &lt;h5 id=&#34;preview:2710642a3ee63efff7917cc1b39cae39&#34;&gt;Preview&lt;/h5&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://mustafadane.com/images/yesternow.gif&#34; alt=&#34;Yesternow&#34; title=&#34;Yesternow&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mustafadane.github.io/images/yesternow.gif&#34; alt=&#34;Yesternow&#34; title=&#34;Yesternow&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>React Native on Mustafa Dane&#39;s Personal Website</title>
-    <link>http://mustafadane.com/tags/react-native/</link>
+    <link>https://mustafadane.github.io/tags/react-native/</link>
     <description>Recent content in React Native on Mustafa Dane&#39;s Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Feb 2019 00:58:24 -0600</lastBuildDate>
-    <atom:link href="http://mustafadane.com/tags/react-native/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://mustafadane.github.io/tags/react-native/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Why I hate React Native and Love at the same time.</title>
-      <link>http://mustafadane.com/post/react-native/</link>
+      <link>https://mustafadane.github.io/post/react-native/</link>
       <pubDate>Sun, 17 Feb 2019 00:58:24 -0600</pubDate>
       
-      <guid>http://mustafadane.com/post/react-native/</guid>
+      <guid>https://mustafadane.github.io/post/react-native/</guid>
       <description>
 
 &lt;h5 id=&#34;you-can-find-the-original-post-here-https-medium-com-mustafadane-why-i-hate-react-native-and-love-at-the-same-time-237ca75cbe4e:fa7aa9737b3aa6461447b11265f7118b&#34;&gt;You can find the original post &lt;a href=&#34;https://medium.com/@mustafadane/why-i-hate-react-native-and-love-at-the-same-time-237ca75cbe4e&#34;&gt;HERE&lt;/a&gt;.&lt;/h5&gt;
 
 &lt;p&gt;All the big loves start with hatred, right? At least, it was the case for me with React Native. I wanted to learn it so hard. Even though it gave me really hard time when I begin to learn it, I started to love it later. Let’s find out together why I hate and love React Native at the same time!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://mustafadane.com/images/phone.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://mustafadane.github.io/images/phone.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;You might be asking now: why the hell this photo? Right, we don’t have those phones at our homes anymore. (Actually, I have an older one but just for decoration.) But we have our smartphones which are like oxygen these day. You can’t live without them. In today’s world where almost everything can be done on a mobile phone, developing solutions to today’s problems in a mobile environment is a necessity. Almost every company is building mobile apps these days. So learning how to build a mobile app was always exciting for me. For a quick start, I wanted to learn React Native because I was already a master in React, so I could transfer my knowledge easily over to React Native. Yeah, right. It wasn’t that easy…&lt;/p&gt;
 
